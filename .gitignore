@@ -165,3 +165,4 @@ dataset
 checkpoints
 .venv
 lightning_attempt
+exploration/saved_models
