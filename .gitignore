@@ -166,3 +166,4 @@ checkpoints
 .venv
 lightning_attempt
 exploration/saved_models
+exploration/repeat_experiment_models
